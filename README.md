@@ -20,7 +20,7 @@ You can take code from [gitHub](https://github.com/zzarnigor775/)
 `parser` 
 4.app
 `app/auth`
-![code]("\Users\Zarnigor\Pictures\Screenshots\Screenshot 2026-01-28 131712.png")
+![code](https://www.uzdaily.uz/media/filer_public/8f/d9/8fd9769a-f7bb-4095-afbc-4d8e58268865/torg-olx-rebrand.jpg)
 - Contact us 
 - telegram
 - youtobe
