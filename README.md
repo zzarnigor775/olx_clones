@@ -1,7 +1,7 @@
 # OLX Clone Project
 ## This project can be used by basically everyone. It is used for posting ads, that is, you can post things like houses, cars, etc. and develop your business.
 ### The purpose of the project is to develop a business and engage in buying and selling activities. If you are selling a house, you can enter all the information.
-*** PYTHON ***
+***PYTHON***
 - FLASK
 - FLASK-RESTFUL
 - FLASK-SQLALCHEMY
@@ -11,8 +11,8 @@ flask db upgrade
 flask db migrate -m "initial migration"
 pip install -r requirements.txt
 ```
-you can take code from [gitHub](https://github.com/zzarnigor775/)
-1.models 
+You can take code from [gitHub](https://github.com/zzarnigor775/)
+1.Models 
 `categories users`
 2.resources 
 `todo`
