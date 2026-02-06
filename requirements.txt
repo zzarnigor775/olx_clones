@@ -1,0 +1,9 @@
+flask
+flask-restful
+flask-jwt-extended 
+flask-bcrypt 
+flask-sqlalchemy
+psycopg2-binary
+flask-migrate
+flasgger
+flask-limiter
